@@ -1,0 +1,5 @@
+# sensitive files containing keys
+/config
+
+# npm stuff
+/node_modules
